@@ -13,4 +13,4 @@ This project counts as a game using Jesse Schell’s Chapter 4 framework because
 
 The story is simple, but it still works. The player is sending job applications and hoping to get interviews, which is a familiar and stressful situation for all CS students. The white form, its label, the explosions, and the “you moved on to the next round” message all support that idea without needing a lot of dialogue. The aesthetics also add to the experience. A recognizable vine boom, colorful confetti, movement, and the camera HUD make the game feel fun, surprising, and tense with anticipation.
 
-The technology includes Unity, Cardboard gaze controls, iPhone touch, sounds, animations, and world-space UI. On their own, these are just tools. Together, they support the mechanics, story, and aesthetic of the game. 
+The technology includes Unity, Cardboard gaze controls, iPhone touch, sounds, animations, and world-space UI. Together these tools, support the mechanics, story, and aesthetic of the game. 
