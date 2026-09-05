@@ -1,4 +1,4 @@
-# Job Application Game
+# Employment Sim
 
 This project counts as a game using Jesse Schell’s Chapter 4 framework because it brings together the Elemental Tetrad: mechanics, story, aesthetics, and technology. The mechanics are straightforward: the player looks at a job application, taps to send it, watches what happens, and keeps track of applications and interviews. There is a 10 percent chance of moving forward, which adds uncertainty, and the counters give the player a clear record of progress. Most applications explode without success, while occasional confetti gives a reward. That makes each choice feel like it matters and creates a repeating loop with a goal.
 
@@ -9,3 +9,7 @@ The technology includes Unity, Cardboard gaze controls, iPhone touch, sounds, an
 ## Deployment proof
 
 ![Deployment proof on iPhone](deploymentproof.jpg)
+
+## Gameplay video
+
+[Watch Employment Sim gameplay on YouTube](https://youtu.be/Qp60Eu3Qdic)
