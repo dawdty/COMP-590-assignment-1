@@ -1,0 +1,26 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# IDE-generated files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+
+# Platform build outputs
+assignment1/
+
+# macOS metadata
+.DS_Store
+
+# Local agent configuration
+.agents/
