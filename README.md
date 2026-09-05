@@ -1,5 +1,5 @@
 ## Deployment proof
-
+I don't have a second phone, apologies. This was taken on Photo Booth.
 ![Deployment proof on iPhone](deploymentproof.jpg)
 
 ## Gameplay video
